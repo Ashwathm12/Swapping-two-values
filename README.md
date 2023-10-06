@@ -18,7 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#swapping of variables
+#developed by:Ashwath M
+#register number:23000309
 
+
+
+```
+## output:
 
 
 ## RESULT:

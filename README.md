@@ -19,18 +19,22 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#swapping of variables
-#developed by:Ashwath M
-#register number:23000309
-
-
+#Program to swap two values.
+#Developed by:Ashwath M 
+#RegisterNumber:23000309
+a=input()
+b=input()
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
 
 ```
 ## output:
-
+![output](/out.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
